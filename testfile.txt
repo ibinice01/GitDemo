@@ -1,2 +1,1 @@
-First line created
-second line
+first text
