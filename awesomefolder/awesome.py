@@ -5,4 +5,4 @@ def main():
     print("This is an awesome Python script.")
 
 if __name__ == "__main__":
-    main()
+    main() 
